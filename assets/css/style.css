@@ -133,13 +133,11 @@ img
     max-width: 960px;
     word-spacing: 3px;
 }
-li{
+#listthings{
     list-style: square;
     margin: 20px 10px;
-
-    
+          
 }
-
 /* Portfolio.html Page */
 #portfolio  {
     display: flex;
